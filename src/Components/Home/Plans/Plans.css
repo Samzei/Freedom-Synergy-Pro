@@ -1,0 +1,21 @@
+.sec-3 {
+    grid-column: 1/-1;
+}
+
+.grid-3 {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-gap: 2rem;
+}
+
+.card-1 {
+    grid-column: 2/4;
+}
+
+.card-2 {
+    grid-column: 4/6;
+}
+
+.card-3 {
+    grid-column: 6/8;
+}

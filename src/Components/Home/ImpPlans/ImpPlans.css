@@ -1,0 +1,10 @@
+.br { border-radius: 2rem;}
+
+.hover-br:hover { border-color: #ff725c;}
+
+.sec-4 {
+    grid-column: 2/8;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+

@@ -1,0 +1,9 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    
+}
+
+.hover-b--light-red:hover {
+    border-color: #ff725c;
+}
